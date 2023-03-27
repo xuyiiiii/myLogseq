@@ -1,0 +1,2 @@
+# myLogseq
+sync my logseq
